@@ -52,3 +52,5 @@ REACT_APP_COMET_CHAT_AUTH_KEY=your secrect  key from comet chat dashboard
 
 PINATA_API_KEY=your project  api key
 PINATA_API_SECRET=your api secret key
+
+© 2024 Rahul Tharammal. All rights reserved.
