@@ -51,8 +51,8 @@ const uploadToPinata = async (data) => {
   const response = await axios.post('https://api.pinata.cloud/pinning/pinFileToIPFS', form, {
     headers: {
       'Content-Type': `multipart/form-data; boundary=${form.getBoundary()}`,
-      'pinata_api_key': '7db7d65717d604a887a5',
-      'pinata_secret_api_key': '72db739c6da6dad74c213adb2e9b2987a8034ec575c13ad58db065373de8f0c4',
+      'pinata_api_key': 'your api key',
+      'pinata_secret_api_key': 'your secret key',
     },
   });
 
