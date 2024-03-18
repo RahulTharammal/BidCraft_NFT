@@ -1,0 +1,19 @@
+
+|      Solc version: 0.8.11       ·  Optimizer enabled: true  ·  Runs: 200  ·  Block limit: 6718946 gas  
+|  Methods                                                                                               │
+
+|  Contract  ·  Method            ·  Min        ·  Max        ·  Avg        ·  # calls     ·  usd (avg)  │
+
+|  Auction   ·  buyAuctionedItem  ·          -  ·          -  ·     102366  ·           7  ·          -  │
+
+|  Auction   ·  changePrice       ·          -  ·          -  ·      31969  ·           4  ·          -  │
+
+|  Auction   ·  createAuction     ·     463612  ·     478212  ·     470182  ·          20  ·          -  │
+
+|  Auction   ·  offerAuction      ·      96286  ·     113398  ·     108502  ·           7  ·          -  │
+
+|  Auction   ·  placeBid          ·     116710  ·     165210  ·     140960  ·           2  ·          -  │
+
+|  Deployments                    ·                                         ·  % of limit  ·             │
+
+|  Auction                        ·          -  ·          -  ·    3865863  ·      57.5 %  ·          -  │
